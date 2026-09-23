@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @DavidTV4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Ahoj, ja som tvorca aplikácií (@DavidTV4)
 
-<!---
-DavidTV4/DavidTV4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Vítajte na mojom GitHub profile! Prevážne sa venujem vývoju webových a mobilných aplikácií.
+
+## 🚀 Čo tu nájdete
+- 🛠️ **Projekty & Kód:** Zdrojové kódy k mojim aplikáciám a tutoriálom.
+- 🎓 **Tutorials:** Návody pre začínajúcich aj pokročilých vývojárov.
+- 📺 **YouTube:** Zdieľam svoje skúsenosti, postupy a majstrovské triedy.
+
+---
+
+### 📬 Kde ma nájdete:
+- 🎥 **YouTube:** [tvorca aplikácie](https://www.youtube.com/@tvorcaaplik%C3%A1cie)
+- 💻 **GitHub:** [DavidTV4](https://github.com/DavidTV4)
+- 
